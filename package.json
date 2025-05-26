@@ -1,5 +1,5 @@
 {
-  "name": "infobot",
+  "name": "discord-glimpse",
   "version": "1.0.0",
   "description": "A restful api that returns your profile from discord",
   "main": "main.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nahtanPNG/info-bot.git"
+    "url": "git+https://github.com/nahtanPNG/discord-glimpse.git"
   },
   "keywords": [
     "discord",
@@ -23,9 +23,9 @@
   "author": "nahtanpng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nahtanPNG/info-bot/issues"
+    "url": "https://github.com/nahtanPNG/discord-glimpse/issues"
   },
-  "homepage": "https://github.com/nahtanPNG/info-bot#readme",
+  "homepage": "https://github.com/nahtanPNG/discord-glimpse#readme",
   "dependencies": {
     "discord.js": "^14.19.3",
     "dotenv": "^16.5.0",
