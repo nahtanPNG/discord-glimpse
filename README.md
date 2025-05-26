@@ -81,10 +81,16 @@ curl http://localhost:3000/user/457725135940616202
         "publicFlags":4194368,
         "badges":[
             {
-                "id":"hypesquad_house_1","description":"HypeSquad Bravery","asset":"8a88d63823d8a71cd5e390baa45efa02","icon_image":"https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png"
+                "id":"hypesquad_house_1",
+                "description":"HypeSquad Bravery",
+                "asset":"8a88d63823d8a71cd5e390baa45efa02",
+                "icon_image":"https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png"
             },
             {
-                "id":"active_developer","description":"Active Developer","asset":"6bdc42827a38498929a4920da12695d9","icon_image":"https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png"
+                "id":"active_developer",
+                "description":"Active Developer",
+                "asset":"6bdc42827a38498929a4920da12695d9",
+                "icon_image":"https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png"
             }
         ],
         "presence":{
