@@ -1,0 +1,32 @@
+{
+  "name": "infobot",
+  "version": "1.0.0",
+  "description": "A restful api that returns your profile from discord",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/services/discord-bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahtanPNG/info-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "bot",
+    "js",
+    "discord.js"
+  ],
+  "author": "nahtanpng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahtanPNG/info-bot/issues"
+  },
+  "homepage": "https://github.com/nahtanPNG/info-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  }
+}
